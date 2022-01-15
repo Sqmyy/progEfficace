@@ -1,0 +1,11 @@
+URL de la video de cours:
+https://www.youtube.com/watch?v=eFRh3oNyYJo
+
+theorique si tu veux pas voir la video:
+https://khayyam.developpez.com/articles/algo/genetic/
+
+exemples du theorique si tu veux pas voir la video:
+https://lethain.com/genetic-algorithms-cool-name-damn-simple/
+
+l'exercice:
+https://onlinejudge.org/external/107/10715.pdf

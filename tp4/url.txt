@@ -1,0 +1,1 @@
+Exercice prog dynamique:  https://www.spoj.com/problems/MBEEWALK/

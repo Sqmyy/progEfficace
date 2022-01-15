@@ -1,0 +1,5 @@
+3 exercices en ligne a faire:
+
+https://www.spoj.com/problems/MSCHED/
+https://codeforces.com/problemset/problem/1095/F
+https://www.spoj.com/problems/GERGOVIA/

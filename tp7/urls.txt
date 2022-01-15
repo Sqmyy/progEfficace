@@ -1,0 +1,14 @@
+3 Exercices en ligne a faire:
+
+représentation d'un sous-ensemble par vecteur de bits:
+https://www.spoj.com/problems/SUBSUMS/
+
+Dijkstra + représentation par vecteur de bits:
+https://www.spoj.com/problems/CERC07B/
+
+ problème A : représentation par vecteur de bits;
+ faire une version avec 64 lampes maximum
+ (à l'ufr: /ens/klimann/Lights contient un exécutable
+ compilé sur nivose qui doit fonctionner pour vérifier
+ le vôtre et comparer les temps, ainsi que des exemples):
+https://swerc.eu/2018/theme/problems/swerc.pdf
